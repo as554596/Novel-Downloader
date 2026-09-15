@@ -1,0 +1,6 @@
+UserData/
+__pycache__/
+*.pyc
+*.epub
+temp_epub_build/
+temp_final_rebuild/
